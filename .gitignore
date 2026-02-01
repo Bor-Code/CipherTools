@@ -1,0 +1,7 @@
+build/
+dist/
+*.spec
+__pycache__/
+*.exe
+*.pyc
+wordlist_gui.txt
